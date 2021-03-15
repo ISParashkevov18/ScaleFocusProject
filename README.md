@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="pictures\sosila%20logo.png">
+  <img src="pictures\schoolLogo.png">
 </p>
-<h1 style="text-align:center;font-size:10vw">Sosila.v2</h1>
+<h1 style="text-align:center;font-size:10vw">Amigos</h1>
 
 1. [Project Team](#team)
 2. [Short Description](#desc)
@@ -22,7 +22,7 @@ Our program is a game called Bletchley code breakers. It is a popular board game
 <h1 style="text-align:center;font-size:10vw">3.Technologies used</h1>
 
 <p align="center">
-  <img src="pictures\technologies%20used.png" />
+  <img src="pictures\usedTechnologies.png" />
 </p>
 <a name="goals"></a>
 <h1 style="text-align:center;font-size:10vw">4.Our Goals</h1>
