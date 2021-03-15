@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pictures\schoolLogo.png">
+  <img src="Pictures\schoolLogo.jpg">
 </p>
 <h1 style="text-align:center;font-size:10vw">Amigos</h1>
 
@@ -22,7 +22,7 @@ Our program is a game called Bletchley code breakers. It is a popular board game
 <h1 style="text-align:center;font-size:10vw">3.Technologies used</h1>
 
 <p align="center">
-  <img src="pictures\usedTechnologies.png" />
+  <img src="Pictures\usedTechnologies.png" />
 </p>
 <a name="goals"></a>
 <h1 style="text-align:center;font-size:10vw">4.Our Goals</h1>
